@@ -1,0 +1,173 @@
+se_01,date2,trt,site,rep,site:rep
+0.3001,July2015,Tile,Acheson,1,Acheson_1
+0.5001,July2015,Tile,Acheson,2,Acheson_2
+1.3001,May2015,Tile,Acheson,1,Acheson_1
+1.6001,May2015,Tile,Acheson,2,Acheson_2
+2.1001,May2016,Tile,Acheson,1,Acheson_1
+0.3001,May2016,Tile,Acheson,1,Acheson_1
+1.2001,May2016,Tile,Acheson,1,Acheson_1
+1e-4,July2015,Control,Beck,1,Beck_1
+1e-4,July2015,Control,Beck,2,Beck_2
+0.1001,June2015,Control,Beck,1,Beck_1
+0.2001,June2015,Control,Beck,2,Beck_2
+1e-4,May2015,Control,Beck,1,Beck_1
+1e-4,May2015,Control,Beck,2,Beck_2
+0.2001,May2016,Control,Beck,1,Beck_1
+1e-4,May2016,Control,Beck,1,Beck_1
+0.1001,May2016,Control,Beck,1,Beck_1
+0.3001,July2015,Control,Buffalo Lake,1,Buffalo Lake_1
+0.3001,July2015,Control,Buffalo Lake,2,Buffalo Lake_2
+4.6001,June2015,Control,Buffalo Lake,1,Buffalo Lake_1
+3.2001,June2015,Control,Buffalo Lake,2,Buffalo Lake_2
+3.8001,May2015,Control,Buffalo Lake,1,Buffalo Lake_1
+1.6001,May2015,Control,Buffalo Lake,2,Buffalo Lake_2
+0.4001,May2016,Control,Buffalo Lake,1,Buffalo Lake_1
+0.2001,May2016,Control,Buffalo Lake,1,Buffalo Lake_1
+0.3001,May2016,Control,Buffalo Lake,1,Buffalo Lake_1
+0.2001,July2015,Tile,Eriksrud,1,Eriksrud_1
+0.2001,July2015,Tile,Eriksrud,2,Eriksrud_2
+0.3001,June2015,Tile,Eriksrud,1,Eriksrud_1
+0.3001,June2015,Tile,Eriksrud,2,Eriksrud_2
+0.1001,May2015,Tile,Eriksrud,1,Eriksrud_1
+0.1001,May2015,Tile,Eriksrud,2,Eriksrud_2
+4.0001,May2016,Tile,Eriksrud,1,Eriksrud_1
+3.8001,May2016,Tile Outflow,Eriksrud,1,Eriksrud_1
+0.3001,May2016,Tile Outflow,Eriksrud,1,Eriksrud_1
+0.4001,May2016,Tile,Eriksrud,1,Eriksrud_1
+0.3001,July2015,Surface,Fods Slough,1,Fods Slough_1
+0.3001,July2015,Surface,Fods Slough,2,Fods Slough_2
+5.1001,June2015,Surface,Fods Slough,1,Fods Slough_1
+3.5001,June2015,Surface,Fods Slough,2,Fods Slough_2
+1.6001,May2015,Surface,Fods Slough,1,Fods Slough_1
+1.4001,May2015,Surface,Fods Slough,2,Fods Slough_2
+0.8001,May2016,Surface,Fods Slough,1,Fods Slough_1
+0.2001,May2016,Surface,Fods Slough,1,Fods Slough_1
+0.4001,May2016,Surface,Fods Slough,1,Fods Slough_1
+0.6001,July2015,Tile,Gerdink,1,Gerdink_1
+0.7001,July2015,Tile,Gerdink,2,Gerdink_2
+0.7001,June2015,Tile,Gerdink,1,Gerdink_1
+0.7001,June2015,Tile,Gerdink,2,Gerdink_2
+0.7001,May2015,Tile,Gerdink,1,Gerdink_1
+86.7001,May2016,Tile Outflow,Gerdink,1,Gerdink_1
+7.2001,May2016,Tile,Gerdink,1,Gerdink_1
+44.3001,May2016,Tile Outflow,Gerdink,1,Gerdink_1
+3.2001,May2016,Tile,Gerdink,1,Gerdink_1
+34.9001,May2016,Tile Outflow,Gerdink,1,Gerdink_1
+0.7001,May2016,Tile,Gerdink,1,Gerdink_1
+0.5001,July2015,Tile,Habeger,1,Habeger_1
+0.4001,July2015,Tile,Habeger,2,Habeger_2
+1e-4,June2015,Tile,Habeger,1,Habeger_1
+0.4001,June2015,Tile,Habeger,2,Habeger_2
+0.3001,May2015,Tile,Habeger,1,Habeger_1
+0.3001,May2015,Tile,Habeger,2,Habeger_2
+40.7001,May2016,Tile Outflow,Habeger,1,Habeger_1
+0.9001,June2016,Tile,Habeger,1,Habeger_1
+35.1001,June2016,Tile Outflow,Habeger,1,Habeger_1
+1.0001,June2016,Tile,Habeger,1,Habeger_1
+27.5001,June2016,Tile Outflow,Habeger,1,Habeger_1
+0.8001,June2016,Tile,Habeger,1,Habeger_1
+0.6001,July2015,Tile Outflow,Habeger,1,Habeger_1
+7.5001,July2015,Tile Outflow,Habeger,2,Habeger_2
+126.0001,June2015,Tile Outflow,Habeger,1,Habeger_1
+107.0001,June2015,Tile Outflow,Habeger,2,Habeger_2
+0.3001,July2015,Surface,Healy Slough,1,Healy Slough_1
+1.2001,July2015,Surface,Healy Slough,2,Healy Slough_2
+0.2001,June2015,Surface,Healy Slough,1,Healy Slough_1
+0.2001,June2015,Surface,Healy Slough,2,Healy Slough_2
+1.6001,May2015,Surface,Healy Slough,1,Healy Slough_1
+1.5001,May2015,Surface,Healy Slough,2,Healy Slough_2
+4.0001,June2016,Surface,Healy Slough,1,Healy Slough_1
+1.1001,June2016,Surface,Healy Slough,1,Healy Slough_1
+0.9001,June2016,Surface,Healy Slough,1,Healy Slough_1
+0.3001,July2015,Control,Lake Vermillion,1,Lake Vermillion_1
+0.3001,July2015,Control,Lake Vermillion,2,Lake Vermillion_2
+0.4001,June2015,Control,Lake Vermillion,1,Lake Vermillion_1
+1.3001,May2015,Control,Lake Vermillion,1,Lake Vermillion_1
+1.6001,May2015,Control,Lake Vermillion,2,Lake Vermillion_2
+3.0001,June2016,Control,Lake Vermillion,1,Lake Vermillion_1
+0.2001,June2016,Control,Lake Vermillion,1,Lake Vermillion_1
+0.2001,June2016,Control,Lake Vermillion,1,Lake Vermillion_1
+0.5001,July2015,Control,Lost Lake,1,Lost Lake_1
+0.3001,July2015,Control,Lost Lake,2,Lost Lake_2
+1e-4,June2015,Control,Lost Lake,1,Lost Lake_1
+1e-4,June2015,Control,Lost Lake,2,Lost Lake_2
+1.6001,May2015,Control,Lost Lake,1,Lost Lake_1
+1.3001,May2015,Control,Lost Lake,2,Lost Lake_2
+0.3001,June2016,Control,Lost Lake,1,Lost Lake_1
+0.1001,June2016,Control,Lost Lake,1,Lost Lake_1
+0.4001,June2016,Control,Lost Lake,1,Lost Lake_1
+0.2001,July2015,Tile,Petri,1,Petri_1
+0.2001,July2015,Tile,Petri,2,Petri_2
+8.8001,June2015,Tile,Petri,1,Petri_1
+7.5001,June2015,Tile,Petri,2,Petri_2
+1.2001,May2015,Tile,Petri,1,Petri_1
+1.2001,May2015,Tile,Petri,2,Petri_2
+44.3001,June2016,Tile Outflow,Petri,1,Petri_1
+4.3001,June2016,Tile,Petri,1,Petri_1
+0.3001,June2016,Tile,Petri,1,Petri_1
+0.4001,July2015,Control,Pettigrew,1,Pettigrew_1
+0.3001,July2015,Control,Pettigrew,2,Pettigrew_2
+0.2001,June2015,Control,Pettigrew,1,Pettigrew_1
+0.2001,June2015,Control,Pettigrew,2,Pettigrew_2
+1e-4,May2015,Control,Pettigrew,1,Pettigrew_1
+1e-4,May2015,Control,Pettigrew,2,Pettigrew_2
+0.1001,June2016,Control,Pettigrew,1,Pettigrew_1
+0.1001,June2016,Control,Pettigrew,1,Pettigrew_1
+1e-4,June2016,Control,Pettigrew,1,Pettigrew_1
+0.3001,July2015,Control,Pittenger,1,Pittenger_1
+0.3001,July2015,Control,Pittenger,2,Pittenger_2
+0.2001,June2015,Control,Pittenger,1,Pittenger_1
+0.3001,June2015,Control,Pittenger,2,Pittenger_2
+0.1001,May2015,Control,Pittenger,1,Pittenger_1
+1e-4,May2015,Control,Pittenger,2,Pittenger_2
+0.1001,June2016,Control,Pittenger,1,Pittenger_1
+0.2001,July2016,Control,Pittenger,1,Pittenger_1
+0.3001,July2016,Control,Pittenger,1,Pittenger_1
+0.3001,July2015,Surface,Ramsey,1,Ramsey_1
+0.4001,July2015,Surface,Ramsey,2,Ramsey_2
+0.3001,June2015,Surface,Ramsey,1,Ramsey_1
+0.3001,June2015,Surface,Ramsey,2,Ramsey_2
+1e-4,May2015,Surface,Ramsey,1,Ramsey_1
+0.1001,May2015,Surface,Ramsey,2,Ramsey_2
+0.2001,July2016,Surface,Ramsey,1,Ramsey_1
+0.2001,July2016,Surface,Ramsey,1,Ramsey_1
+0.2001,July2016,Surface,Ramsey,1,Ramsey_1
+0.3001,July2015,Surface,Schaefer,1,Schaefer_1
+0.3001,July2015,Surface,Schaefer,2,Schaefer_2
+0.1001,June2015,Surface,Schaefer,1,Schaefer_1
+0.2001,June2015,Surface,Schaefer,2,Schaefer_2
+1.8001,May2015,Surface,Schaefer,1,Schaefer_1
+1.4001,May2015,Surface,Schaefer,2,Schaefer_2
+0.4001,July2016,Surface,Schaefer,1,Schaefer_1
+0.3001,July2016,Surface,Schaefer,1,Schaefer_1
+0.6001,July2016,Surface,Schaefer,1,Schaefer_1
+1.2001,July2015,Tile,Swartz,1,Swartz_1
+1.0001,July2015,Tile,Swartz,2,Swartz_2
+1.0001,June2015,Tile,Swartz,1,Swartz_1
+1.2001,June2015,Tile,Swartz,2,Swartz_2
+0.6001,May2015,Tile,Swartz,1,Swartz_1
+0.5001,May2015,Tile,Swartz,2,Swartz_2
+81.3001,July2016,Tile Outflow,Swartz,1,Swartz_1
+178.8001,July2016,Tile Outflow,Swartz,1,Swartz_1
+3.2001,July2016,Tile,Swartz,1,Swartz_1
+44.7001,July2016,Tile Outflow,Swartz,1,Swartz_1
+1.3001,July2016,Tile,Swartz,1,Swartz_1
+2.0001,July2016,Tile,Swartz,1,Swartz_1
+4.6001,July2015,Tile,Volker,1,Volker_1
+0.5001,July2015,Tile,Volker,2,Volker_2
+0.4001,June2015,Tile,Volker,1,Volker_1
+0.4001,June2015,Tile,Volker,2,Volker_2
+2.1001,May2015,Tile,Volker,1,Volker_1
+2.1001,May2015,Tile,Volker,2,Volker_2
+1.6001,July2016,Tile,Volker,1,Volker_1
+0.7001,July2016,Tile,Volker,1,Volker_1
+1.1001,July2016,Tile,Volker,1,Volker_1
+0.2001,July2015,Surface,Ziegler,1,Ziegler_1
+0.3001,July2015,Surface,Ziegler,2,Ziegler_2
+3.2001,June2015,Surface,Ziegler,1,Ziegler_1
+4.5001,June2015,Surface,Ziegler,2,Ziegler_2
+1.5001,May2015,Surface,Ziegler,1,Ziegler_1
+1.4001,May2015,Surface,Ziegler,2,Ziegler_2
+0.6001,July2016,Surface,Ziegler,1,Ziegler_1
+0.6001,July2016,Surface,Ziegler,1,Ziegler_1
+0.8001,July2016,Surface,Ziegler,1,Ziegler_1

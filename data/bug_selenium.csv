@@ -1,0 +1,135 @@
+se_ugg,taxon,trt,mon_yr,stage,site,rep,site:rep
+2.41,Chironomidae,tile,June_2016,adults,Acheson,1,Acheson_1
+2.364,Chironomidae,tile,June_2016,adults,Acheson,2,Acheson_2
+1.812,Coenagrionidae,tile,June_2016,adults,Acheson,1,Acheson_1
+1.683,Coenagrionidae,tile,June_2016,adults,Acheson,2,Acheson_2
+2.246,Chironomidae,tile,June_2016,larvae,Acheson,1,Acheson_1
+1.499,Coenagrionidae,tile,June_2016,larvae,Acheson,2,Acheson_2
+1.26,Chironomidae,control,June_2015,adults,Beck,1,Beck_1
+1.48,Chironomidae,control,June_2015,adults,Beck,2,Beck_2
+0.82,Coenagrionidae,control,June_2015,adults,Beck,1,Beck_1
+1.24,Coenagrionidae,control,June_2015,adults,Beck,2,Beck_2
+1.595,Chironomidae,control,June_2016,adults,Beck,1,Beck_1
+1.121,Chironomidae,control,June_2016,adults,Beck,2,Beck_2
+1.974,Coenagrionidae,control,June_2016,adults,Beck,1,Beck_1
+1.728,Coenagrionidae,control,June_2016,adults,Beck,2,Beck_2
+1.183,Chironomidae,control,June_2016,larvae,Beck,1,Beck_1
+1.101,Coenagrionidae,control,June_2016,larvae,Beck,1,Beck_1
+0.59,Coenagrionidae,control,June_2015,adults,Buffalo Lake,1,Buffalo Lake_1
+0.89,Coenagrionidae,control,June_2015,adults,Buffalo Lake,2,Buffalo Lake_2
+5.39,Chironomidae,control,June_2015,adults,Buffalo Lake,1,Buffalo Lake_1
+6.04,Chironomidae,control,June_2015,adults,Buffalo Lake,2,Buffalo Lake_2
+14,Chironomidae,tile,June_2015,adults,Eriksrud,1,Eriksrud_1
+2.21,Coenagrionidae,tile,June_2015,adults,Eriksrud,1,Eriksrud_1
+0.89,Coenagrionidae,tile,June_2015,adults,Eriksrud,2,Eriksrud_2
+2.967,Chironomidae,tile,June_2016,adults,Eriksrud,1,Eriksrud_1
+0.909,Coenagrionidae,tile,June_2016,adults,Eriksrud,1,Eriksrud_1
+2.116,Coenagrionidae,tile,June_2016,adults,Eriksrud,2,Eriksrud_2
+2.086,Chironomidae,tile,June_2016,larvae,Eriksrud,1,Eriksrud_1
+0.48,Chironomidae,surface,June_2015,adults,Fods Slough,1,Fods Slough_1
+0.53,Chironomidae,surface,June_2015,adults,Fods Slough,2,Fods Slough_2
+0.62,Coenagrionidae,surface,June_2015,adults,Fods Slough,1,Fods Slough_1
+0.52,Coenagrionidae,surface,June_2015,adults,Fods Slough,2,Fods Slough_2
+4.026,Chironomidae,surface,June_2016,adults,Fods Slough,1,Fods Slough_1
+1.299,Coenagrionidae,surface,June_2016,adults,Fods Slough,1,Fods Slough_1
+1.583,Coenagrionidae,surface,June_2016,adults,Fods Slough,2,Fods Slough_2
+2.463,Chironomidae,surface,June_2016,larvae,Fods Slough,1,Fods Slough_1
+1.785,Coenagrionidae,surface,June_2016,larvae,Fods Slough,1,Fods Slough_1
+5.23,Chironomidae,tile,June_2015,adults,Gerdink,1,Gerdink_1
+3.725,Chironomidae,tile,June_2016,adults,Gerdink,1,Gerdink_1
+1.623,Coenagrionidae,tile,June_2016,adults,Gerdink,1,Gerdink_1
+10.795,Chironomidae,tile,June_2016,larvae,Gerdink,1,Gerdink_1
+5.751,Coenagrionidae,tile,June_2016,larvae,Gerdink,1,Gerdink_1
+3.02,Chironomidae,tile,June_2015,adults,Habeger,1,Habeger_1
+3.01,Chironomidae,tile,June_2015,adults,Habeger,2,Habeger_2
+21.194,Chironomidae,tile,June_2016,adults,Habeger,1,Habeger_1
+3.538,Coenagrionidae,tile,June_2016,adults,Habeger,1,Habeger_1
+2.08,Coenagrionidae,tile,June_2016,adults,Habeger,2,Habeger_2
+2.61,Chironomidae,surface,June_2015,adults,Healy Slough,1,Healy Slough_1
+1.96,Chironomidae,surface,June_2015,adults,Healy Slough,2,Healy Slough_2
+0.46,Coenagrionidae,surface,June_2015,adults,Healy Slough,1,Healy Slough_1
+0.75,Coenagrionidae,surface,June_2015,adults,Healy Slough,2,Healy Slough_2
+1.882,Coenagrionidae,surface,June_2016,adults,Healy Slough,1,Healy Slough_1
+2.03,Coenagrionidae,surface,June_2016,larvae,Healy Slough,1,Healy Slough_1
+0.36,Coenagrionidae,control,June_2015,adults,Lake Vermillion,1,Lake Vermillion_1
+0.38,Coenagrionidae,control,June_2015,adults,Lake Vermillion,2,Lake Vermillion_2
+0.57,Chironomidae,control,June_2015,adults,Lake Vermillion,1,Lake Vermillion_1
+0.68,Chironomidae,control,June_2015,adults,Lake Vermillion,2,Lake Vermillion_2
+2.265,Chironomidae,control,June_2016,adults,Lake Vermillion,1,Lake Vermillion_1
+1.013,Coenagrionidae,control,June_2016,adults,Lake Vermillion,1,Lake Vermillion_1
+0.268,Chironomidae,control,June_2016,larvae,Lake Vermillion,1,Lake Vermillion_1
+1.616,Coenagrionidae,control,June_2016,larvae,Lake Vermillion,1,Lake Vermillion_1
+0.63,Chironomidae,control,June_2015,adults,Lost Lake,1,Lost Lake_1
+1.6,Chironomidae,control,June_2015,adults,Lost Lake,2,Lost Lake_2
+0.78,Coenagrionidae,control,June_2015,adults,Lost Lake,1,Lost Lake_1
+0.85,Coenagrionidae,control,June_2015,adults,Lost Lake,2,Lost Lake_2
+0.337,Chironomidae,control,June_2016,adults,Lost Lake,1,Lost Lake_1
+1.288,Chironomidae,control,June_2016,adults,Lost Lake,2,Lost Lake_2
+3.529,Coenagrionidae,control,June_2016,adults,Lost Lake,1,Lost Lake_1
+1.453,Coenagrionidae,control,June_2016,adults,Lost Lake,2,Lost Lake_2
+1.9188,Chironomidae,control,June_2016,larvae,Lost Lake,1,Lost Lake_1
+1.111,Coenagrionidae,control,June_2016,larvae,Lost Lake,1,Lost Lake_1
+2.32,Chironomidae,surface,June_2015,adults,Petri,1,Petri_1
+4.06,Chironomidae,surface,June_2015,adults,Petri,2,Petri_2
+0.618,Chironomidae,surface,June_2016,adults,Petri,1,Petri_1
+0.978,Coenagrionidae,surface,June_2016,adults,Petri,1,Petri_1
+1.764,Coenagrionidae,surface,June_2016,larvae,Petri,1,Petri_1
+3.07,Chironomidae,control,June_2015,adults,Pettigrew,1,Pettigrew_1
+0.661,Chironomidae,control,June_2016,adults,Pettigrew,1,Pettigrew_1
+0.82,Chironomidae,control,June_2016,adults,Pettigrew,2,Pettigrew_2
+0.715,Coenagrionidae,control,June_2016,adults,Pettigrew,1,Pettigrew_1
+0.611,Coenagrionidae,control,June_2016,adults,Pettigrew,2,Pettigrew_2
+0.652,Coenagrionidae,control,June_2016,larvae,Pettigrew,1,Pettigrew_1
+2.75,Chironomidae,control,June_2015,adults,Pittenger,1,Pittenger_1
+2.43,Chironomidae,control,June_2015,adults,Pittenger,2,Pittenger_2
+0.6,Coenagrionidae,control,June_2015,adults,Pittenger,1,Pittenger_1
+1.16,Coenagrionidae,control,June_2015,adults,Pittenger,2,Pittenger_2
+0.686,Chironomidae,control,June_2016,adults,Pittenger,1,Pittenger_1
+2.931,Coenagrionidae,control,June_2016,adults,Pittenger,1,Pittenger_1
+1.116,Coenagrionidae,control,June_2016,adults,Pittenger,2,Pittenger_2
+1.05,Chironomidae,surface,June_2015,adults,Ramsey,1,Ramsey_1
+1.34,Chironomidae,surface,June_2015,adults,Ramsey,2,Ramsey_2
+0.86,Coenagrionidae,surface,June_2015,adults,Ramsey,1,Ramsey_1
+1.03,Coenagrionidae,surface,June_2015,adults,Ramsey,2,Ramsey_2
+2.058,Chironomidae,surface,June_2016,adults,Ramsey,1,Ramsey_1
+2.456,Chironomidae,surface,June_2016,adults,Ramsey,2,Ramsey_2
+0.758,Coenagrionidae,surface,June_2016,adults,Ramsey,1,Ramsey_1
+2.017,Chironomidae,surface,June_2016,larvae,Ramsey,1,Ramsey_1
+1.104,Coenagrionidae,surface,June_2016,larvae,Ramsey,1,Ramsey_1
+1,Chironomidae,surface,June_2015,adults,Schaefer,1,Schaefer_1
+0.77,Chironomidae,surface,June_2015,adults,Schaefer,2,Schaefer_2
+0.82,Coenagrionidae,surface,June_2015,adults,Schaefer,1,Schaefer_1
+1.23,Coenagrionidae,surface,June_2015,adults,Schaefer,2,Schaefer_2
+0.284,Chironomidae,surface,June_2016,adults,Schaefer,1,Schaefer_1
+0.156,Chironomidae,surface,June_2016,adults,Schaefer,2,Schaefer_2
+0.739,Coenagrionidae,surface,June_2016,adults,Schaefer,1,Schaefer_1
+0.891,Coenagrionidae,surface,June_2016,adults,Schaefer,2,Schaefer_2
+3.538,Coenagrionidae,surface,June_2016,larvae,Schaefer,1,Schaefer_1
+2.43,Chironomidae,tile,June_2015,adults,Swartz,1,Swartz_1
+1.76,Chironomidae,tile,June_2015,adults,Swartz,2,Swartz_2
+20.133,Chironomidae,tile,June_2016,adults,Swartz,1,Swartz_1
+3.351,Chironomidae,tile,June_2016,adults,Swartz,2,Swartz_2
+5.061,Coenagrionidae,tile,June_2016,adults,Swartz,1,Swartz_1
+4.834,Coenagrionidae,tile,June_2016,adults,Swartz,2,Swartz_2
+11.92,Chironomidae,tile,June_2016,larvae,Swartz,1,Swartz_1
+3.447,Coenagrionidae,tile,June_2016,larvae,Swartz,1,Swartz_1
+0.45,Coenagrionidae,tile,June_2015,adults,Volker,1,Volker_1
+0.53,Coenagrionidae,tile,June_2015,adults,Volker,2,Volker_2
+2,Chironomidae,tile,June_2015,adults,Volker,1,Volker_1
+1.19,Chironomidae,tile,June_2015,adults,Volker,2,Volker_2
+5.343,Chironomidae,tile,June_2016,adults,Volker,1,Volker_1
+5.099,Chironomidae,tile,June_2016,adults,Volker,2,Volker_2
+8.187,Coenagrionidae,tile,June_2016,adults,Volker,1,Volker_1
+4.892,Coenagrionidae,tile,June_2016,adults,Volker,2,Volker_2
+5.742,Chironomidae,tile,June_2016,larvae,Volker,1,Volker_1
+2.164,Coenagrionidae,tile,June_2016,larvae,Volker,1,Volker_1
+0.44,Coenagrionidae,surface,June_2015,adults,Ziegler,1,Ziegler_1
+0.44,Coenagrionidae,surface,June_2015,adults,Ziegler,2,Ziegler_2
+0.77,Chironomidae,surface,June_2015,adults,Ziegler,1,Ziegler_1
+1.16,Chironomidae,surface,June_2015,adults,Ziegler,2,Ziegler_2
+2.117,Chironomidae,surface,June_2016,adults,Ziegler,2,Ziegler_2
+14.526,Chironomidae,surface,June_2016,adults,Ziegler,1,Ziegler_1
+2.175,Coenagrionidae,surface,June_2016,adults,Ziegler,1,Ziegler_1
+6.247,Coenagrionidae,surface,June_2016,adults,Ziegler,2,Ziegler_2
+11.305,Chironomidae,surface,June_2016,larvae,Ziegler,1,Ziegler_1
+3.453,Coenagrionidae,surface,June_2016,larvae,Ziegler,1,Ziegler_1
